@@ -7,5 +7,5 @@ I record some problems, experience, thought of mine. They are recorded mostly fo
 # 目錄 Menu
 * 程序語言 Programming Language [(中文版)](); [(English)]()
 	* Go [(中文版)](); [(English)]()
-* 數據庫 Database [(中文版)](https://github.com/tcernestw/blog/blob/master/article/db/db_index_ch.md); [English](https://github.com/tcernestw/blog/blob/master/article/db/db_index_en.md) 
+* 數據庫 Database [(中文版)](https://github.com/tcernestw/blog/blob/master/article/db/db_index_ch.md); [(English)](https://github.com/tcernestw/blog/blob/master/article/db/db_index_en.md) 
 	* SQLite [(中文版)](); [(English)]()
