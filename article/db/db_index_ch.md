@@ -1,4 +1,4 @@
-[<- Back to README](https://github.com/tcernestw/blog/blob/master/README.md)
+[<- 回到 README](https://github.com/tcernestw/blog/blob/master/README.md)
 
 # 數據庫
 [English Version](https://github.com/tcernestw/blog/blob/master/article/db/db_index_en.md)
