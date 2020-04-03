@@ -5,7 +5,7 @@
 I record some problems, experience, thought of mine. They are recorded mostly for a forgetful person, me. However, it is my pleasure if they brings anything to you.
 
 # 目錄 Menu
-* [程序語言]() [Programming Language]()
-	* [Go]()
-* [數據庫](https://github.com/tcernestw/blog/blob/master/article/db/db_index_ch.md) [Database](https://github.com/tcernestw/blog/blob/master/article/db/db_index_en.md) 
-	* [SQLite]()
+* 程序語言 Programming Language [(中文版)](); [(English)]()
+	* Go [(中文版)](); [(English)]()
+* 數據庫 Database [(中文版)](https://github.com/tcernestw/blog/blob/master/article/db/db_index_ch.md); [English](https://github.com/tcernestw/blog/blob/master/article/db/db_index_en.md) 
+	* SQLite [(中文版)](); [(English)]()
