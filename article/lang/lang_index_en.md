@@ -1,6 +1,6 @@
 [<- Back to README](https://github.com/tcernestw/blog/blob/master/README.md)
 
-# Language
+# Programming Language
 [English Version](https://github.com/tcernestw/blog/blob/master/article/lang/lang_index_ch.md)
 
 ## Menu
